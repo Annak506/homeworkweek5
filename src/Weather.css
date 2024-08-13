@@ -3,7 +3,8 @@
   color: rgb(32, 70, 42);
   border: 2px solid #504e4e;
   padding: 20px;
-  border-radius: 3px
+  border-radius: 3px;
+  background-color: rgb(207, 239, 228, 0.4);
 }
 
 .Weather h1 {
@@ -51,3 +52,4 @@
 .Weather .col-3{
   color: black;
 }
+
