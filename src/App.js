@@ -17,6 +17,7 @@ export default function App() {
           <a
             href="https://github.com/Annak506"
             target="_blank"
+            rel="noreferrer"
           >
             open-sourced on GitHub
           </a>{" "}
@@ -24,6 +25,7 @@ export default function App() {
           <a
             href="https://app.netlify.com/teams/annak506/sites"
             target="_blank"
+            rel="noreferrer"
           >
             hosted on Netlify
           </a>
