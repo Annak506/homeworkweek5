@@ -23,7 +23,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://app.netlify.com/teams/annak506/sites"
+            href="https://fantastic-faun-e75f90.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
